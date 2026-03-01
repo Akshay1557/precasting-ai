@@ -1,6 +1,6 @@
 # Precasting-AI
 
-## CREATECH 2026 Competition Submission
+## CREATECH 2026 Submission
 
 ### AI-Based Concrete Demoulding Cycle Time Optimizer
 
